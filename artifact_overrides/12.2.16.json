@@ -1,0 +1,5 @@
+{
+	"build": [
+		{ "addonId": "341357", "fileId": "3018873", "required": false, "name": "CorsairMcCue" }
+	]
+}
