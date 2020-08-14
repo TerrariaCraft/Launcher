@@ -1,9 +1,9 @@
 {
 	"build": [
-            { "addonId": "247401", "fileId": "3032342", "required": true, "name": "HammerCore", "url": "https://www.curseforge.com/minecraft/mc-mods/hammer-lib/download/3032342" },
+            { "addonId": "247401", "fileId": "3032342", "required": true, "name": "HammerCore", "url": "https://media.forgecdn.net/files/3032/342/HammerLib-1.12.2-2.0.6.22.jar" },
             { "addonId": "289079", "fileId": "2945974", "required": true, "name": "MusicLayer" },
             { "addonId": "292243", "fileId": "2910783", "required": true, "name": "OpenCubicChunks" },
-            { "addonId": "347912", "fileId": "3031434", "required": false, "name": "ColoredLux", "url": "https://www.curseforge.com/minecraft/mc-mods/colored-lux/download/3031434" },
-            { "addonId": "341357", "fileId": "3032134", "required": false, "name": "CorsairMcCue", "url": "https://www.curseforge.com/minecraft/mc-mods/corsair-mccue/download/3032134" }
+            { "addonId": "347912", "fileId": "3031434", "required": false, "name": "ColoredLux", "url": "https://media.forgecdn.net/files/3031/434/ColoredLux-1.12.2-12.4.18.jar" },
+            { "addonId": "341357", "fileId": "3032134", "required": false, "name": "CorsairMcCue", "url": "https://media.forgecdn.net/files/3032/134/McCue-1.12.2-12.3.6.jar" }
 	]
 }
