@@ -1,6 +1,0 @@
-{
-	"build": [
-		{ "addonId": "247401", "fileId": "2915065", "required": true, "name": "HammerCore" },
-		{ "addonId": "347912", "fileId": "2879756", "required": false, "name": "ColoredLux" }
-	]
-}
