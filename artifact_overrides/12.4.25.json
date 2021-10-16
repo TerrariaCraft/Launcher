@@ -1,0 +1,5 @@
+{
+	"build": [
+		{ "addonId": "347912", "fileId": "3475065", "required": false, "name": "ColoredLux" }
+	]
+}
