@@ -1,0 +1,133 @@
+language.name=Русский
+language.en_name=Russian
+
+global.page_render_failed=Ошибка в странице {}
+
+global.outage.title=Продолжается сбой
+global.outage={} в данный момент недоступен
+global.time.relative.never=Никогда
+
+startup.preinit=Подготовка...
+startup.preinit.cpu=Изучение ЦП...
+startup.preinit.load_profiles=Загрузка профилей...
+startup.global_data=Обновление глобальных переменных...
+startup.xbl_auth=Авторизация Xbox Live...
+startup.xbl_refresh=Обновление XBL токена...
+startup.xsts_get=Получение XSTS токена...
+startup.xsts_exchange=Обмен XSTS на Minecraft токен...
+startup.get_game_profile=Получение игрового профиля...
+startup.check_early_access=Проверка раннего доступа...
+startup.get_profile_assets=Получение ресурсов профиля..
+
+game_launch.not_logged_in=Игровой профиль не найден!
+game_launch.libraries_invalid=Не удалось проверить библиотеки!
+game_launch.java_not_found=На удалось найти исполняемый файл java!
+game_launch.exception=Ошибка: {}
+game_launch.interrupted=Игра остановлена.
+game_launch.crash=Игра крашнулась!
+game_launch.unusual_exit=Игра закрылась с ненулевым кодом: {}.
+
+login.microsoft=Логин через Microsoft
+
+popup.hello=Привет, {}!
+popup.signed_out=Вы вышли из учётной записи.
+popup.f5_done=Профили & моды были обновлены.
+
+tabs.news=Новости
+tabs.instances=Профили
+tabs.settings=Настройки
+tabs.launcher_info=Информация
+tabs.early_access=Patreon
+tab.profile=Мой профиль
+
+launcher.play=Играть
+instances.close=Закрыть
+instances.select=Выбрать
+instances.selected=Выбрано
+instances.not_found=Профиль не найден
+instances.create_new=Создать профиль
+instance.delete=Удалить профиль
+instance.delete.title=Удаление профиля
+instance.delete.description.1=Вы действительно хотите удалить профиль {}?
+instance.delete.description.2=Данное действие невозможно отменить!
+instance.delete.trash_files=Переместить данные профиля в корзину
+instance.delete.perma_delete_files=Безвозвратно удалить данные профиля
+instance.delete.confirmation=Я осознаю, что доступ к этому профилю будет утерян.
+instance.delete.confirm=Удалить
+instance.overrides=Локальные настройки:
+instance.tc_version=Версия игры:
+instance.tc_version.latest=Последняя версия
+instance.open_folder=Открыть папку профиля
+instance.options=Настройки:
+instance.addon_deleted={} удалён.
+instance.install_addons=Установить аддоны
+instance.open_mods=Открыть 'mods'
+instance.addon.delete=Удалить с профиля
+instance.addon.open.website=Страница мода
+instance.addon.open.issue_tracker=Баг-трекер
+instance.addon.open.source_code=Исходный код
+instance.new.name_placeholder=Название профиля
+instance.new.create=Создать новый профиль
+instance.export=Экспортировать профиль
+
+addon_browser.title=Поиск аддонов
+addon_browser.query=Поисковый запрос...
+addon_browser.install=Установить
+addon_browser.installed=Установлено
+addon_browser.compatible=Совместимо: {}
+addon_browser.incompatible=Несовместимо!
+
+filesize.kb={} КБ
+filesize.mb={} МБ
+filesize.gb={} ГБ
+
+quantity.k={} тыс.
+quantity.m={} млн
+quantity.b={} млрд
+quantity.t={} трлн
+
+settings.saved=Настройки были сохранены.
+settings.restart_warn=Пожалуйста, перезапустите лаунчер, чтобы применить некоторые настройки.
+settings.ram=ОЗУ
+settings.ram.mb=МБ
+settings.ram.gb=ГБ
+settings.ram.percentage={}% из {} ГБ
+settings.modern_java=Современная Java (25)
+settings.language=Язык:
+settings.download_threads=Макс. кол-во параллельных загрузок:
+settings.hide_during_play=Скрывать во время игры
+settings.hardware_acceleration=Использовать аппаратное ускорение
+settings.debug_logs=Создавать debug.log
+settings.optional_mods.colored_lux=Цветное освещение
+settings.optional_mods.mccue=RGB периферия
+settings.optional_mods.optimization_mods=Оптимизационные моды
+settings.discord_rpc=Discord Rich Presence
+
+settings.tabs.app=Приложение
+settings.tabs.game=Игра
+settings.tabs.privacy=Приватность
+
+settings.lang.search=Поиск языка...
+settings.lang.not_found=Языки не найдены
+
+early_access.open_patreon=Открыть Patreon
+early_access.code=Код доступа
+early_access.code.invalid=Предоставленный вами код доуступа неправильный.
+
+early_access.status.not_subscribed=У вас нету раннего доступа, но вы можете это исправить!
+early_access.status.eligible=Ранний доступ обнаружен. Введите код доступа для активации доп. билдов.
+early_access.status.active_one=Ранний доступ активен. У вас доступно {} доп. билд.
+early_access.status.active_many=Ранний доступ активен. У вас доступна {} доп. билдов.
+early_access.info.1=Пожалуйста, введите предоставленный вам код доступа.
+early_access.info.2=Это разблокирует дополнительные версии в профилях.
+early_access.activate=Применить Код
+
+info.launcher=TerrariaCraft лаунчер {}; Собрано
+info.user.name=Вы авторизированы как {}.
+info.user.uuid=Ваш UUID пользователя: {}.
+info.launcher_dev=Разработчик лаунчера: DragonForge / Zeitheron
+info.description=Лаунчер v2 основан на Java-бэкенде и JCEF для обеспечения пользовательского интерфейса.<br/>Пожалуйста, сообщайте о любых возникающих проблемах на <a class="def-a" href="https://github.com/TerrariaCraft/Launcher/issues" target="_blank">GitHub</a>.
+info.licenses=Лицензии
+info.bug_tracker=Баг-трекер лаунчера
+
+account.sign_out=Выйти из учётной записи
