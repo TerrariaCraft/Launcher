@@ -40,6 +40,10 @@ login.microsoft=Sign in with Microsoft
 popup.hello=Hello, {}!
 popup.signed_out=You have signed out.
 popup.f5_done=Profiles & mods have been reloaded.
+popup.exit.title=Confirm exit?
+popup.exit.desc=Do you really want to exit out of TerrariaCraft Launcher?
+popup.exit.desc.2=Closing the launcher will also exit out of any currently running game instances.
+popup.exit.button=Exit
 
 tabs.news=Latest News
 tabs.instances=Profiles

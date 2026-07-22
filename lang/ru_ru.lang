@@ -40,6 +40,10 @@ login.microsoft=Логин через Microsoft
 popup.hello=Привет, {}!
 popup.signed_out=Вы вышли из учётной записи.
 popup.f5_done=Профили & моды были обновлены.
+popup.exit.title=Подтвердить выход?
+popup.exit.desc=Вы действительно хотите выйти из TerrariaCraft лаунчера?
+popup.exit.desc.2=Закрытие лаунчера также приведет к выходу из всех запущенных в данный момент игровых процессов.
+popup.exit.button=Выход
 
 tabs.news=Новости
 tabs.instances=Профили
