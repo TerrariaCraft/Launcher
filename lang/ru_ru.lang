@@ -26,6 +26,14 @@ game_launch.exception=Ошибка: {}
 game_launch.interrupted=Игра остановлена.
 game_launch.crash=Игра крашнулась!
 game_launch.unusual_exit=Игра закрылась с ненулевым кодом: {}.
+game_launch.sync_tc=Синхронизация TerrariaCraft мода...
+game_launch.fetching_deps=Получение зависимостей...
+game_launch.check_assets=Проверка ресурсов игры...
+game_launch.check_downloads=Проверка {} файлов...
+game_launch.start_downloads=Загрузка {} файлов, {}.
+game_launch.validate_jvm=Проверка JVM файлов...
+game_launch.download_jvm=Загрузка JVM...
+game_launch.extract_jvm=Извлечение JVM...
 
 login.microsoft=Логин через Microsoft
 
@@ -94,6 +102,8 @@ settings.ram.gb=ГБ
 settings.ram.percentage={}% из {} ГБ
 settings.modern_java=Современная Java (25)
 settings.language=Язык:
+settings.language.contribute.1=Хотите видеть/улучить ваш язык?
+settings.language.contribute.2=Вы можете помочь на {}!
 settings.download_threads=Макс. кол-во параллельных загрузок:
 settings.hide_during_play=Скрывать во время игры
 settings.hardware_acceleration=Использовать аппаратное ускорение

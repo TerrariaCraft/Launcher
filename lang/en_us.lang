@@ -26,6 +26,14 @@ game_launch.exception=Error: {}
 game_launch.interrupted=Game interrupted.
 game_launch.crash=Game crashed!
 game_launch.unusual_exit=Game has exited with non-zero code: {}.
+game_launch.sync_tc=Synchronizing TerrariaCraft mod...
+game_launch.fetching_deps=Fetching dependencies...
+game_launch.check_assets=Checking game assets...
+game_launch.check_downloads=Checking {} files...
+game_launch.start_downloads=Downloading {} files, {}.
+game_launch.validate_jvm=Validating JVM files...
+game_launch.download_jvm=Downloading JVM...
+game_launch.extract_jvm=Extracting JVM...
 
 login.microsoft=Sign in with Microsoft
 
@@ -94,6 +102,8 @@ settings.ram.gb=GB
 settings.ram.percentage={}% of {} GB
 settings.modern_java=Modern Java (25)
 settings.language=Language:
+settings.language.contribute.1=Want to see/improve your language?
+settings.language.contribute.2=You can contribute on {}!
 settings.download_threads=Max concurrent downloads:
 settings.hide_during_play=Hide while game is open
 settings.hardware_acceleration=Enable hardware acceleration
