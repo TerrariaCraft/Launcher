@@ -140,7 +140,8 @@ info.launcher=TerrariaCraft лаунчер {}; Собрано
 info.user.name=Вы авторизированы как {}.
 info.user.uuid=Ваш UUID пользователя: {}.
 info.launcher_dev=Разработчик лаунчера: DragonForge / Zeitheron
-info.description=Лаунчер v2 основан на Java-бэкенде и JCEF для обеспечения пользовательского интерфейса.<br/>Пожалуйста, сообщайте о любых возникающих проблемах на <a class="def-a" href="https://github.com/TerrariaCraft/Launcher/issues" target="_blank">GitHub</a>.
+info.description.1=Лаунчер v2 основан на Java-бэкенде и JCEF для обеспечения пользовательского интерфейса.
+info.description.2=Пожалуйста, сообщайте о любых возникающих проблемах на {}.
 info.licenses=Лицензии
 info.bug_tracker=Баг-трекер лаунчера
 
