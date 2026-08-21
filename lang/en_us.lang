@@ -49,7 +49,7 @@ tabs.news=Latest News
 tabs.instances=Profiles
 tabs.settings=Settings
 tabs.launcher_info=Information
-tabs.early_access=Patreon
+tabs.early_access=Early Access
 tab.profile=My Profile
 
 launcher.play=Play
@@ -125,6 +125,8 @@ settings.lang.search=Search language...
 settings.lang.not_found=No languages found
 
 early_access.open_patreon=Open Patreon
+early_access.sync_ea=Connect Account
+early_access.sync_issues=Having connection issues? Try entering access code manually:
 early_access.code=Access Code
 early_access.code.invalid=The access code you provided is not correct.
 
