@@ -6,6 +6,8 @@ global.page_render_failed=Failed to render page {}
 global.outage.title=Ongoing outage
 global.outage={} is currently down
 global.time.relative.never=Never
+global.search=Search...
+global.search.no_results=Nothing matched.
 
 startup.preinit=Initializing...
 startup.preinit.cpu=Fetching CPU...
@@ -116,13 +118,14 @@ settings.optional_mods.colored_lux=Colored Lighting
 settings.optional_mods.mccue=RGB peripherals
 settings.optional_mods.optimization_mods=Performance mods
 settings.discord_rpc=Discord Rich Presence
+settings.theme=Application theme:
+settings.theme.system=System
+settings.theme.light=Light
+settings.theme.dark=Dark
 
 settings.tabs.app=Application
 settings.tabs.game=Game
 settings.tabs.privacy=Privacy
-
-settings.lang.search=Search language...
-settings.lang.not_found=No languages found
 
 early_access.open_patreon=Open Patreon
 early_access.sync_ea=Connect Account
