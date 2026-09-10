@@ -183,6 +183,7 @@ info.description.1=Launcher v2 based on Java backend + JCEF to provide user inte
 info.description.2=Please report any issues upon them happening on {}.
 info.licenses=Licenses
 info.bug_tracker=Launcher Bug Tracker
+info.logs=Open Logs
 
 account.sign_out=Sign Out
 

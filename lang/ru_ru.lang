@@ -183,5 +183,6 @@ info.description.1=Лаунчер v2 основан на Java-бэкенде и 
 info.description.2=Пожалуйста, сообщайте о любых возникающих проблемах на {}.
 info.licenses=Лицензии
 info.bug_tracker=Баг-трекер лаунчера
+info.logs=Открыть логи
 
 account.sign_out=Выйти из учётной записи
