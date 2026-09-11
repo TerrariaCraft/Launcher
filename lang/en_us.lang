@@ -10,6 +10,7 @@ global.search=Search...
 global.search.no_results=Nothing matched.
 global.search.pick_prompt=Choose...
 global.version.search=Search version...
+global.loading=Loading...
 
 startup.preinit=Initializing...
 startup.preinit.cpu=Fetching CPU...
@@ -54,6 +55,7 @@ tabs.instances=Profiles
 tabs.settings=Settings
 tabs.launcher_info=Information
 tabs.early_access=Early Access
+tabs.idev_changelogs=History
 tabs.creator_companion=Dev Kit
 tab.profile=My Profile
 
@@ -171,6 +173,8 @@ settings.theme.dark=Dark
 settings.tabs.app=Application
 settings.tabs.game=Game
 settings.tabs.privacy=Privacy
+
+idev_changelogs.end=You have reached the end.
 
 early_access.open_patreon=Open Patreon
 early_access.sync_ea=Connect Account

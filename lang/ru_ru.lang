@@ -10,6 +10,7 @@ global.search=Поиск...
 global.search.no_results=Ничего не найдено.
 global.search.pick_prompt=Выберите...
 global.version.search=Поиск версий...
+global.loading=Загрузка...
 
 startup.preinit=Подготовка...
 startup.preinit.cpu=Изучение ЦП...
@@ -54,6 +55,7 @@ tabs.instances=Профили
 tabs.settings=Настройки
 tabs.launcher_info=Информация
 tabs.early_access=Ранний доступ
+tabs.idev_changelogs=История
 tabs.creator_companion=Dev Kit
 tab.profile=Мой профиль
 
@@ -171,6 +173,8 @@ settings.theme.dark=Тёмная
 settings.tabs.app=Приложение
 settings.tabs.game=Игра
 settings.tabs.privacy=Приватность
+
+idev_changelogs.end=Вы дошли до конца.
 
 early_access.open_patreon=Открыть Patreon
 early_access.sync_ea=Подключить аккаунт
